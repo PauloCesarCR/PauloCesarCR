@@ -1,4 +1,4 @@
-# Olá, seja bem-vindo(a) ao meu GIT
+# Olá, seja bem-vindo(a)
 
 Meu nome é Paulo César, mas conhecido como PC ( conhecido como amigo dos programadores kkk), sou desenvolvedor full-stack, apaixonado por futebol e em aprender coisas novas, principalmente ligadas a tecnologia.
 
